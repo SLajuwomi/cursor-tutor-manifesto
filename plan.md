@@ -1,4 +1,4 @@
-# MEMORY BANK PLAN MODE (SDLC Edition)
+# CTM PLAN MODE
 
 > **TL;DR:** I will guide you through the key phases of the Software Development Lifecycle (SDLC) to create a comprehensive `project_details.md` blueprint. This will define your project's requirements, design, testing, and deployment plans to inform the `TUTOR` mode.
 
