@@ -87,3 +87,8 @@ I have not tested this system heavily, so it may not work as expected. Feel free
 - [ ] Add a mode to maintain context between modes. Might be a part of the Tutor Mode or a separate mode.
 - [ ] Allow Tutor Mode to write example code to help explain. It cannot be complete code. The goal is to show a brief example of the code and explain it. Could be broken into a separate mode.
 - [ ] Allow Tutor Mode to link to documentation more aggressively. I didn't know Cursor could do this so was not using it that heavily.
+
+# Notes (updated 6/26/2025)
+
+- I have been pretty much only been using the Tutor Mode. I find I can solve most problems with it alone.
+- I have also been able to use this with Claude Code by adding it to `CLAUDE.md`. This is how I use it in IntelliJ at the moment.
